@@ -4,6 +4,11 @@
         "title": "figma",
         "url": "www.figma.com"
     },
+    "web": {
+        "icon": "http://img0.imgtn.bdimg.com/it/u=285658267,120643295&fm=11&gp=0.jpg",
+        "title": "asana",
+        "url": "www.asana.com"
+    },
     "native": {
         "icon": "null",
         "title": "zoom",
