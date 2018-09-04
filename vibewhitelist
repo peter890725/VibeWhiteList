@@ -1,0 +1,12 @@
+{
+    "web": {
+        "icon": "https://cdn-images-1.medium.com/fit/c/36/36/1*c2x4lhBVMM87YA1bhuhf7g.png",
+        "title": "figma",
+        "url": "www.figma.com"
+    },
+    "native": {
+        "icon": "null",
+        "title": "zoom",
+        "url": "https://www.apkmirror.com/wp-content/uploads/2018/08/5b80a156267ec/us.zoom.videomeetings_4.1.30445.0820-41016_minAPI14(armeabi-v7a,x86)(nodpi)_apkmirror.com.apk?verify=1536026596-AVmbM6xCXrMYB4i4yrBkNE1vxp0q7uVMsshbpil0CB8%3D"
+    }
+}
