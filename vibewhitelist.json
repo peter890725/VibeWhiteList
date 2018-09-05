@@ -7,13 +7,13 @@
     },
     {
         "type": "web",
-        "icon": "http://img0.imgtn.bdimg.com/it/u=285658267,120643295&fm=11&gp=0.jpg",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/asana.png",
         "name": "asana",
         "url": "www.asana.com"
     },
     {
         "type": "native",
-        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/asana.png",
+        "icon": "https://ss3.baidu.com/-rVXeDTa2gU2pMbgoY3K/it/u=1326910830,1243190780&fm=202&mola=new&crop=v1",
         "name": "zoom",
         "package": "us.zoom.videomeetings",
         "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/zoom.apk"
