@@ -1,7 +1,7 @@
 [
     {
         "type": "web",
-        "icon": "https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2337577738,814088087&fm=58&bpow=512&bpoh=512",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/figma.png",
         "name": "figma",
         "url": "www.figma.com"
     },
@@ -13,7 +13,7 @@
     },
     {
         "type": "native",
-        "icon": "https://ss3.baidu.com/-rVXeDTa2gU2pMbgoY3K/it/u=1326910830,1243190780&fm=202&mola=new&crop=v1",
+        "icon": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/icons/asana.png",
         "name": "zoom",
         "package": "us.zoom.videomeetings",
         "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/zoom.apk"
