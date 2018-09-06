@@ -14,7 +14,7 @@
     {
         "type": "native",
         "icon": "https://ss3.baidu.com/-rVXeDTa2gU2pMbgoY3K/it/u=1326910830,1243190780&fm=202&mola=new&crop=v1",
-        "name": "zoom",
+        "name": "zoom-us",
         "package": "us.zoom.videomeetings",
         "url": "https://media.githubusercontent.com/media/PeterDai25/VibeWhiteList/master/apks/zoom.apk"
     },
